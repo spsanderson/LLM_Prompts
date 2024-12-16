@@ -1,7 +1,7 @@
 # Sources Links:
 
 | **Link** |
---------
+|--------|
 | https://x12.org/codes |
 | https://x12.org/products/transaction-sets |
 | https://x12.org/codes/service-type-codes |
