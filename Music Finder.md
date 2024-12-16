@@ -48,9 +48,6 @@ Example prompt:
    - Example: "Artist albums inurl:(format1 OR format2 OR ...) -inurl:(unwanted_patterns) intitle:index.of -inurl:(unwanted_sites)"
 
 3. **Example Search String**:
-   ```
    "Machine Head albums inurl:(aac|flac|m3u|m4a|mp2|mp3|mpa|ogg|wav|wma) -inurl:(jsp|pl|php|html|aspx|htm|cf|shtml) intitle:index.of -inurl:(listen77|mp3raid|mp3toss|mp3drug|index_of|index-of|wallywashis|downloadmana)"
    ```
-```
-
 This prompt setup helps the AI generate a precise and comprehensive search string, tailored to locate albums by the specified artist with the desired filetypes, while excluding irrelevant or unwanted results.
