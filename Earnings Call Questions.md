@@ -1,12 +1,14 @@
 # Earnings Call Questions
 
 # Information
-Model: Calude 3.5 Sonnet
-Web Access: On
-Personaliztion: On
-Advanced Reasoning: On
+
+- Model: Calude 3.5 Sonnet
+- Web Access: On
+- Personaliztion: On
+- Advanced Reasoning: On
 
 # Instructions
+
 ### **Prompt for an AI Assistant**
 
 **Define the Problem:**  
