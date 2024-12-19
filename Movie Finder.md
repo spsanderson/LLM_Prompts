@@ -1,8 +1,9 @@
 # Movie Finder
 
 # Information
-Model: Gemini 1.5 flash
-Web Access: On
+
+- Model: Gemini 1.5 flash
+- Web Access: On
 
 # Instructions
 To create an effective search string for finding movie files using search engines, we can craft a prompt that defines the problem clearly, uses prompt priming, employs prompting techniques, and specifies the desired response format. Here’s an optimized prompt for generating the search string:
