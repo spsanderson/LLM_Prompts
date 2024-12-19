@@ -1,12 +1,14 @@
 # Bash Prompt Helper
 
 # Information
-Model: Claude 3.5 Sonnet
-Web Access: On
-Personalilztion: On
-Advanced Reasoning: On
+
+- Model: Claude 3.5 Sonnet
+- Web Access: On
+- Personalilztion: On
+- Advanced Reasoning: On
 
 # Instructions
+
 **Define the Problem:**
 
 The goal is to create an AI prompt that assists users in learning how to effectively use the Linux Bash Prompt. Keywords and phrases include "Linux Bash Prompt," "commands," "tutorial," "step-by-step guide," and "examples."
