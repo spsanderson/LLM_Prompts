@@ -1,9 +1,10 @@
 # Mastadonizer
 
 # Information:
-Personalization: On
-Model: GPT-4o
-Web Access: On
+
+- Personalization: On
+- Model: GPT-4o
+- Web Access: On
 
 Instructions:
 Acting as an expert in Mastadon marketing please craft 5 toots Using these criteria.
