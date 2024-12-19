@@ -1,8 +1,9 @@
 # Music Finder
 
 # Information
-Model: Gemini 1.5 Flash
-Web Access: On
+
+- Model: Gemini 1.5 Flash
+- Web Access: On
 
 # Instructions
 ### Enhanced AI Prompt for Generating a Comprehensive Search String
