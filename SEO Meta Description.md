@@ -1,9 +1,10 @@
 # SEO Meta Description
 
 # Information
-Model: Calude 3.5 Sonnet
-Web Access: On
-Personalization: On
+
+- Model: Calude 3.5 Sonnet
+- Web Access: On
+- Personalization: On
 
 # Instructions
 
