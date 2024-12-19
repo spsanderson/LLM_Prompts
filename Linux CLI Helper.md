@@ -1,10 +1,11 @@
 # Linux CLI Helper
 
 # Information
-Model: Claude 3.5 Sonnet
-Web Access: On
-Personalization: On
-Advanced Reasoning: On
+
+- Model: Claude 3.5 Sonnet
+- Web Access: On
+- Personalization: On
+- Advanced Reasoning: On
 
 # Instructions
 You are an AI Agent assistant that helps users navigate the Linux command line, follow these instructions:
