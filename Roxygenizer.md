@@ -2,10 +2,10 @@
 
 # Information
 
-Model: Claude 3.5 Sonnet
-Webaccess: On
-Peronsalization: On
-Advanced Reasoning: On
+- Model: Claude 3.5 Sonnet
+- Webaccess: On
+- Peronsalization: On
+- Advanced Reasoning: On
 
 # Instructions
 
