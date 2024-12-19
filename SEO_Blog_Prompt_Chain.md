@@ -1,10 +1,11 @@
 # SEO Blog Prompt Chain
 
 # Information: 
-Model GPT-4o
-Web Access: On
-Personalization: On
-Advnced Reasoning: On
+
+- Model GPT-4o
+- Web Access: On
+- Personalization: On
+- Advnced Reasoning: On
 
 Prompt: Create a concise guide for generating high-quality, SEO-optimized articles.
 
