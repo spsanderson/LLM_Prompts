@@ -1,9 +1,10 @@
 # Claude SEO Blog Gen
 
 # Information
-Model: Claude 3.5 Sonnet
-Webaccess: On
-Peronsalization: On
+
+- Model: Claude 3.5 Sonnet
+- Webaccess: On
+- Peronsalization: On
 
 # Instructions
 
