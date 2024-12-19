@@ -1,9 +1,10 @@
 # LinkedIn Bullet Points
 
 # Inforamtion
-Model: Claude 3.5 Sonnet
-Web Access: On
-Personalization: On
+
+- Model: Claude 3.5 Sonnet
+- Web Access: On
+- Personalization: On
 
 # Instructions
 
