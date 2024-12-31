@@ -2,7 +2,7 @@
 
 # Information
 
-Model: Gemini 1.5 Flash
+Model: Gemini 1.5 Pro
 Web Access: On
 Advanced Reasoning: Off
 Include Follow Up Questions: On
