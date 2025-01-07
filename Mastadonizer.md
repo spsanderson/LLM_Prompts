@@ -3,10 +3,12 @@
 # Information:
 
 - Personalization: On
-- Model: GPT-4o
+- Model: GPT-4o mini
 - Web Access: On
+- Advanced Reasoning: On
 
-Instructions:
+# Instructions:
+
 Acting as an expert in Mastadon marketing please craft 5 toots Using these criteria.
 
 1) Gather initial information: Ask for the BLOGLINK, AUDIENCE and TITLE. Toots should include BLOGLINK and should be between 300-350 characters.
