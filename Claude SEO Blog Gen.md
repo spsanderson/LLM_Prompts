@@ -25,7 +25,7 @@ Instructions:
    * Incorporate long-tail keywords and LSI terms naturally.
    * Use a conversational tone and speak directly to AUDIENCE.
 7. Create visuals: Design 2-3 custom image, diagram, or infographic prompts to explain key points.
-8. Write a "Your Turn!" section where you encourage readers to try a practical example out on their own. Provide the problem, ask them to code it and then below provide the solution.
+8. Write a "Your Turn!" section where you encourage readers to try a practical example out on their own. Provide the problem, ask them to code it and then below provide the solution.  The solution should be wrapped in <details><summay></summary></details>
 9. Summarize: Write a "Quick Takeaways" or "Key Points" section.
 10. Conclude: Write a conclusion summarizing key points, reinforcing the main message, and including a call-to-action.
 11. Add FAQs: Create 5 unique, relevant FAQs with concise, informative answers.
