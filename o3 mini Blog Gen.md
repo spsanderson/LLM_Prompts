@@ -100,7 +100,7 @@ Example Prompt:
 ---
 
 #### **8. Include an Interactive Section**  
-Add a **“Your Turn!”** section with a practical exercise or problem related to the article’s topic. Provide a solution below for readers to review.
+Add a **“Your Turn!”** section with a practical exercise or problem related to the article’s topic. Provide a solution below for readers to review.  The solution should be wrapped in <details><summay></summary></details>
 
 Example Prompt:  
 *“I’ll include an interactive section where readers can apply concepts from the article. Confirm if you’d like me to proceed.”*
