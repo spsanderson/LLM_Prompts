@@ -1,4 +1,16 @@
-Your prompt is already well-structured and highly detailed. However, here’s an improved version with slight refinements for **clarity, conciseness, and actionability**.  
+# Claude 3.7 SEO Blog Gen
+
+# Information
+
+Model: Claude 3.7 Sonnet
+Web Access: On
+Advanced Reasoning: Off
+Include Follow Up Questions: On
+Include Personalization: On
+
+# Instructions
+
+## Prompt
 
 ---
 
