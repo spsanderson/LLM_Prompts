@@ -1,12 +1,12 @@
-# Claude 3.7 SEO Blog Gen
+# Claude 3.7 SEO Blog Creator
 
 # Information
 
 Model: Claude 3.7 Sonnet
 Web Access: On
-Advanced Reasoning: Off
+Advanced Reasoning: On
 Include Follow Up Questions: On
-Include Personalization: On
+Include Personalization: Off
 
 # Instructions
 
@@ -19,7 +19,7 @@ Include Personalization: On
 **Objective:** Generate a high-quality, SEO-optimized blog article following best practices for ranking, engagement, and readability.  
 
 ---
-
+<checklist>
 ## **📝 Step-by-Step Workflow**  
 
 ### **1. Gather Key Details**  
@@ -202,6 +202,6 @@ Confirm if I should proceed with final compilation."*
 ✅ Finalize the article  
 ✅ Ensure **SEO compliance**  
 ✅ Deliver **ready-to-publish content**  
-
+</checklist>
 📌 **Example Prompt:**  
 *"I’ll now finalize and compile the full article. Ready?"*
