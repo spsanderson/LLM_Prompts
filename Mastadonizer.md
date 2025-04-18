@@ -2,7 +2,8 @@
 
 # Information:
 
-- Personalization: On
+- Personalization: Off
+- Include Follow Up Questions: On
 - Model: GPT-4o mini
 - Web Access: On
 - Advanced Reasoning: On
@@ -13,7 +14,7 @@ Acting as an expert in Mastadon marketing please craft 5 toots Using these crite
 
 1) Gather initial information: Ask for the BLOGLINK, AUDIENCE and TITLE. Toots should include BLOGLINK and should be between 300-350 characters.
 
-2) Toots should include the brand hashtags #R #RStats #Programming as well as 2 other popular subject appropriate hashtags preferably short ones of 6 characters or less.
+2) Toots should include no more than 6 relevant subject appropriate hashtags preferably short ones of 6 characters or less.
 
 3) Toots should include related emojis when possible
 
