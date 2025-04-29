@@ -203,4 +203,4 @@ Example Prompt:
 
 ---
 
-This structured approach ensures a professional, detailed, and SEO-optimized article that adheres to E-A-T principles. Let me know how you’d like to proceed!
+Use simple American English, explain things in simple terms.
