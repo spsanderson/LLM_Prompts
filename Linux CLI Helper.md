@@ -2,7 +2,7 @@
 
 # Information
 
-- Model: Claude 3.5 Sonnet
+- Model: Claude Sonnet 4.6 (Adaptive)
 - Web Access: On
 - Personalization: On
 - Advanced Reasoning: On
