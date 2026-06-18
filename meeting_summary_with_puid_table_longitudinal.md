@@ -1,9 +1,3 @@
-Here is the updated PUID prompt. I have redesigned it to act as a longitudinal tracking tool. It now explicitly instructs the AI to analyze multiple transcripts, compare historical statuses to current ones, and track the lifecycle of issues and decisions across dates to create a true timeline of events.
-
-***
-
-**Copy and paste the following prompt:**
-
 You are analyzing a series of weekly 1:1 meeting transcripts (historical and current) for a specific staff member and creating a structured, chronological PUID project timeline document. 
 
 PUID stands for:
